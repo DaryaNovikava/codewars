@@ -4,7 +4,6 @@
 //  You don't have to worry about strings with less than two characters.
 
 // MY SOLUTION:
-
 function removeChar(str){
 return str.slice(1, str.length-1);
    };
